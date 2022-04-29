@@ -1,0 +1,10 @@
+Do you ever get trolled by your co-programmer by just a "semicolon"?
+
+This is a program where you can scan your source code/s, if some of your co-programmer/s trolled it to rendered unbuild.
+And this is a program where you can troll the source code to make rendered unbuild, or de-troll to remove.
+
+To get started, select the source code individually or inside the folder and select what task you want (scan, troll, de-troll)
+
+A randomization mode is an option where it randomizes and having a chance of trolling the source code.
+
+Note: This program scans, trolls, and de-trolls source codes like the C Family (C, C++, C#), Java, and JavaScript.
