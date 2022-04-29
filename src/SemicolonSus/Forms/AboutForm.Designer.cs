@@ -72,6 +72,7 @@
             this.linkLabel1.TabIndex = 10;
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "GitHub Repo";
+            this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
             // label4
             // 
@@ -91,6 +92,7 @@
             this.LicenseLinkLabel.TabIndex = 8;
             this.LicenseLinkLabel.TabStop = true;
             this.LicenseLinkLabel.Text = "MIT License";
+            this.LicenseLinkLabel.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.LicenseLinkLabel_LinkClicked);
             // 
             // label3
             // 
